@@ -4,8 +4,8 @@
 # 使用教程
 >* 使用前提是有这些论坛的账号
 >* [如何安装Python3](https://www.liaoxuefeng.com/wiki/1016959663602400/1016959856222624)
->* 打开控制台
+>* [如何安装requests](https://zhuanlan.zhihu.com/p/46001223)
+>* 进入代码的文件夹，运行cmd，进入命令提示符窗口，输入下面的命令
 ```
-pip install requests
 python yuzuki.py
 ```
